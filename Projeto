@@ -1,11 +1,19 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8">
-<title>Produtos- vendas</title>
-<link rel="stylesheet"href="Produtos.css"
+  <head>
+   <meta charset="UTF-8">
+   <title>Produtos- vendas</title>
+   <link rel="stylesheet"href="Produtos.css"
  <head>
-<
-<body>
-<body>
+ <body>
+<h1><img src="Vendas-removebg-preview.png"></h1>
+
+  <ul>
+
+   <li>Home</li>
+   <li>Produtos</li>
+   <li>Contato</li>
+    <ul>
+  <head> 
+ <body>
 <html>
