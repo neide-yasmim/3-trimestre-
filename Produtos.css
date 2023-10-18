@@ -14,3 +14,11 @@ nav a {
   font-size: 22px;
   text-decoration: none;
 }
+.caixa {
+width: 940px;
+  position: relative;
+  margin: 0 auto;
+  header {
+    background: #BBBBBB;
+    padding: 20px;
+}
