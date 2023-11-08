@@ -11,7 +11,7 @@ header {
 
 nav {
 	position: absolute;
-	top: 110px;
+	top: 150px;
 	right: 0;
 }
 
@@ -24,7 +24,7 @@ nav a {
 	text-transform: uppercase;
 	color: #000000;
 	font-weight: bold;
-	font-size: 22px;
+	font-size: 30px;
 	text-decoration: none;
 }
 
